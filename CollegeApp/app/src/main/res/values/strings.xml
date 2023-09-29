@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">College App</string>
+
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_college">Mahaveer Ambesh Guru PG College, Fatehnagar Location And Map</string>
+    <string name="my_slef">My Name is Mahesh Sen, I am From Fatehnagar,  I am Developer This App </string>
+
+
+    <string-array name="theme">
+        <item>system Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+
+
+    </string-array>
+</resources>
